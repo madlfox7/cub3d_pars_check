@@ -1,0 +1,17 @@
+NO first
+SO textures/test/south.xpm 
+C 200,200,1
+WE textures/test/west.xpm
+NO second
+EA textures/test/east.xpm
+F 78,9,0
+SO aha
+NO third
+
+         
+          
+           
+            
+             
+              1
+               
